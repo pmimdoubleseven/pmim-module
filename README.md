@@ -1,5 +1,9 @@
-pmim-module: Personnel Management and Information Module: Primary Module Repository
+pmim-module
 ===================================================================================
+Personnel Management and Information Module:
+============================================
+Primary Module Repository
+============================================
 
 Conducted by:
   Bulacan State University
