@@ -1,10 +1,6 @@
-pmim-module
-===================================================================================
-Personnel Management and Information Module:
+pmim-module: Primary Module Repository
 ============================================
-Primary Module Repository
-============================================
-
+<pre>
 Conducted by:
   Bulacan State University
   College of Information and Communication Technology
@@ -27,4 +23,4 @@ Repository information:
     any changes made to the files included.
   This readme will also be edited to contain announcements that are need to be read before opening the repo. 
   Please be notified accordingly.
-
+</pre>
