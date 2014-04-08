@@ -31,8 +31,7 @@ Repository information:
   This assumes you have already installed XAMPP.
   Open your XAMPP installation folder, and locate the htdocs folder. 
   Assuming you haven't changed the default installation folder, it would be "C:\xampp\htdocs".
-  This folder is where you should put files that require XAMPP parsing (PHP) so this is
-	where I decided to put repo clones.
+  This folder is where you should put files that require XAMPP parsing (PHP) so this is where I decided to put repo clones.
   Create a folder inside, and name it "pmim".
   Open GitHub for Windows and click Tools. Click Options.
   Change the default storage directory to the pmim folder you created.
