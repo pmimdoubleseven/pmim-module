@@ -15,7 +15,7 @@ Conducted by:
 In participation of:
   Automation of Various Offices of the City Government of Malolos, Bulacan
   Local Government Automation System: Personnel Management and Information Module
-  <edit: place coordinator/s' name/s here>
+  (to-do: place coordinator/s' name/s here)
 
 Repository information:
   This repository contains the project proper: CodeIgniter files, site layout and content, views, models and controllers.
