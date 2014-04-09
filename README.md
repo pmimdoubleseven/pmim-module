@@ -1,4 +1,4 @@
-pmim-module: Primary Module Repository
+Primary Module Repository
 ============================================
 <pre>
 Conducted by:
